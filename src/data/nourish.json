@@ -1,0 +1,848 @@
+{
+  "title": "Nourish — 14-Day Hostel Fat-Loss Meal Plan",
+  "principles": [
+    "This is a system, not a diet.",
+    "Protein-first · Fibre 30g+ · Sleep is a macro.",
+    "~1,450–1,650 kcal/day · 70–90 g protein.",
+    "Train 6 days/week. No crash dieting.",
+    "One electric skillet — sauté, boil, steam, crisp."
+  ],
+  "hydration_default_l": 2.8,
+  "walking_default_steps": 8000,
+  "sleep_default_h": 8,
+  "cycle_length_days": 14,
+  "days": [
+    {
+      "day": 1,
+      "note": "Anchor day — nail portions and timings.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Paneer bhurji + 2 chapati"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Curd-rice + roasted chana"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Rajma + brown rice + cucumber salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Moong dal soup + toasted paneer"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength A: Squat, Rows, Overhead press · 3×8",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 2,
+      "note": "Higher fibre — hydrate hard.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Vegetable oats upma + boiled egg or paneer"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Chapati roll (paneer + veg)"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Chana masala + jeera rice + kachumber"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Tomato soup + 1 chapati + hung curd"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Steady cardio 30 min + core 10 min",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 3,
+      "note": "Iron-rich day.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Besan chilla + mint chutney"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Sprout salad + fruit"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Palak paneer + chapati + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Vegetable khichdi + curd"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength B: Deadlift, Bench, Pull-ups · 3×8",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 4,
+      "note": "Lighter carb evening.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Poha with peanuts + moong sprouts"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Curd-rice + roasted chana"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Kadhi + rice + steamed veg"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Paneer tikka salad"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Steady cardio 30 min + core 10 min",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 5,
+      "note": "Post-workout day — protein first.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Vegetable dalia + boiled egg or tofu"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Chapati roll + fruit"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Dal tadka + rice + bhindi"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Grilled paneer + salad"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength C: Lunges, Push-ups, Plank · 3×10",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 6,
+      "note": "Weekend prep.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Paneer paratha + curd"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Sprouts chaat"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Chole + brown rice + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Vegetable soup + 1 chapati"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Active recovery: 40-min walk + mobility",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 7,
+      "note": "South-Indian rotation day.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Idli or masala oats + coconut chutney"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Fruit + peanuts"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Sambar + rice + carrot salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Moong dal cheela + hung curd"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength A: Squat, Rows, Overhead press · 3×8",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 8,
+      "note": "Repeat Week 1 rhythm — familiarity is a feature.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Vegetable uttapam + chutney"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Curd rice"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Rajma + rice + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Tofu-veg stir fry"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Steady cardio 30 min + core 10 min",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 9,
+      "note": "Continue rotation.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Paneer bhurji + 2 chapati"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Chapati roll"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Palak dal + jeera rice + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Vegetable khichdi + curd"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength B: Deadlift, Bench, Pull-ups · 3×8",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 10,
+      "note": "High-fibre lunch.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Besan chilla + veg"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Sprout salad"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Kadhi + rice + steamed veg"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Paneer tikka + salad"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Steady cardio 30 min + core 10 min",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 11,
+      "note": "Mid-cycle check-in.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Vegetable oats + tofu"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Curd rice + chana"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Dal + rice + bhindi"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Moong dal soup + chapati"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength C: Lunges, Push-ups, Plank · 3×10",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 12,
+      "note": "Higher training day.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Poha + sprouts"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Fruit + peanuts"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Chole + brown rice"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Grilled paneer + salad"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Active recovery: 40-min walk + mobility",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 13,
+      "note": "Prep grocery list for next cycle.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Paneer paratha + curd"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Sprouts chaat"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Sambar + rice + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Vegetable soup + chapati"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Strength A: Squat, Rows, Overhead press · 3×8",
+      "hydration_l": 2.8,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    },
+    {
+      "day": 14,
+      "note": "Reflect and reset — end of 14-day cycle.",
+      "meals": [
+        {
+          "id": "wake",
+          "label": "Wake-up drink",
+          "time": "7:30 AM",
+          "text": "Warm water + lemon + soaked methi seeds"
+        },
+        {
+          "id": "breakfast",
+          "label": "Breakfast (cooked)",
+          "time": "9:00 AM",
+          "text": "Idli + chutney"
+        },
+        {
+          "id": "packed",
+          "label": "Packed box (college)",
+          "time": "1:30 PM",
+          "text": "Fruit + peanuts"
+        },
+        {
+          "id": "lunch",
+          "label": "Real cooked lunch (6pm kitchen)",
+          "time": "6:00 PM",
+          "text": "Rajma + rice + salad"
+        },
+        {
+          "id": "dessert",
+          "label": "Small dessert",
+          "time": "7:00 PM",
+          "text": "1 date + 4 almonds"
+        },
+        {
+          "id": "dinner",
+          "label": "Light dinner",
+          "time": "9:30 PM",
+          "text": "Tofu stir fry"
+        },
+        {
+          "id": "night",
+          "label": "Calming night drink",
+          "time": "10:15 PM",
+          "text": "Cinnamon-ginger tea"
+        }
+      ],
+      "workout": "Steady cardio 30 min + core 10 min",
+      "hydration_l": 3.0,
+      "sleep_target_h": 8,
+      "steps_target": 8000
+    }
+  ],
+  "recipes": [
+    {
+      "id": "paneer-bhurji",
+      "name": "Paneer Bhurji",
+      "time_min": 25,
+      "ingredients": [
+        "200g paneer, crumbled",
+        "1 onion",
+        "1 tomato",
+        "1 green chilli",
+        "Turmeric, cumin, salt"
+      ],
+      "steps": [
+        "Heat skillet with 1 tsp oil.",
+        "Sauté onion 3 min.",
+        "Add tomato + spices, cook 4 min.",
+        "Add crumbled paneer, toss 3 min.",
+        "Serve with 2 chapati."
+      ]
+    },
+    {
+      "id": "besan-chilla",
+      "name": "Besan Chilla",
+      "time_min": 20,
+      "ingredients": [
+        "1 cup besan",
+        "1/2 onion chopped",
+        "Coriander",
+        "Green chilli",
+        "Salt, turmeric"
+      ],
+      "steps": [
+        "Whisk besan with water to pancake batter.",
+        "Add veg and spices.",
+        "Skillet on medium — pour batter thin.",
+        "Flip when edges dry, 2 min per side.",
+        "Serve with mint chutney."
+      ]
+    },
+    {
+      "id": "moong-khichdi",
+      "name": "Moong Dal Khichdi",
+      "time_min": 25,
+      "ingredients": [
+        "1/2 cup rice",
+        "1/2 cup moong dal",
+        "Turmeric, cumin, ginger",
+        "Ghee 1 tsp"
+      ],
+      "steps": [
+        "Rinse rice + dal.",
+        "Skillet — temper cumin + ginger in ghee.",
+        "Add rice, dal, 3 cups water, salt.",
+        "Cover, low flame 20 min.",
+        "Serve hot with curd."
+      ]
+    }
+  ],
+  "grocery_weekly": [
+    "Paneer 500g",
+    "Curd 1kg",
+    "Moong dal 500g",
+    "Rajma 500g",
+    "Chana 500g",
+    "Toor dal 500g",
+    "Brown rice 1kg",
+    "Chapati flour 2kg",
+    "Onions 1kg",
+    "Tomatoes 1kg",
+    "Cucumber 500g",
+    "Palak 500g",
+    "Bhindi 500g",
+    "Carrots 500g",
+    "Lemons 10",
+    "Ginger + garlic",
+    "Peanuts 250g",
+    "Almonds 250g",
+    "Dates 250g",
+    "Oats 500g",
+    "Poha 500g",
+    "Cinnamon, turmeric, cumin, jeera"
+  ],
+  "pantry_always_on": [
+    "Oil (mustard/olive)",
+    "Ghee",
+    "Salt",
+    "Turmeric",
+    "Cumin",
+    "Coriander powder",
+    "Chilli powder",
+    "Garam masala",
+    "Methi seeds"
+  ],
+  "measurements": {
+    "cadence": "weekly",
+    "morning_only": true,
+    "fields": [
+      "weight_kg",
+      "waist_cm",
+      "sleep_h",
+      "energy_1_5",
+      "mood_1_5"
+    ]
+  }
+}
